@@ -190,7 +190,7 @@ ul {
 }
 @media (max-width: 640px) {
   .burger {
-    height: 10vh;
+    /* height: 10vh; */
   }
   .burger__patty {
     -webkit-transform: scale(0.8);
@@ -683,7 +683,7 @@ ul {
     width: 100%;
   }
   .projects-content .text-content {
-    display: none;
+    /* display: none; */
   }
   .contact-content .more-info {
     padding: 30px;
